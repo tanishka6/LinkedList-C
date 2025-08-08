@@ -1,4 +1,10 @@
 # LinkedList-C
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: TANISHKA GARIYA
+*INTERN ID*: CT04DH2132
+*DOMAIN*: C PROGRAMMING
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTHOSH KUMAR
 💻 Platform Used: Dev C++
 🎓 Learning Sources: YouTube, GeeksforGeeks, ChatGPT
 🧾 Description:
@@ -54,6 +60,7 @@ GeeksforGeeks (for in-depth understanding of linked lists)
 ChatGPT (for code explanation, structure refinement, and error debugging)
 
 OUTPUT:
+<img width="1915" height="1003" alt="image" src="https://github.com/user-attachments/assets/9b2dc6ed-3d5d-4d9f-b3ed-b675999bb1ab" />
 
 
 
