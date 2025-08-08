@@ -1,12 +1,14 @@
 # LinkedList-C
-*COMPANY*: CODTECH IT SOLUTIONS
-*NAME*: TANISHKA GARIYA
-*INTERN ID*: CT04DH2132
-*DOMAIN*: C PROGRAMMING
-*DURATION*: 4 WEEKS
+*COMPANY*: CODTECH IT SOLUTIONS;
+*NAME*: TANISHKA GARIYA;
+*INTERN ID*: CT04DH2132;
+*DOMAIN*: C PROGRAMMING;
+*DURATION*: 4 WEEKS;
 *MENTOR*: NEELA SANTHOSH KUMAR
+
 💻 Platform Used: Dev C++
 🎓 Learning Sources: YouTube, GeeksforGeeks, ChatGPT
+
 🧾 Description:
 This C program implements a Singly Linked List with fundamental operations such as:
 
